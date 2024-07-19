@@ -1,0 +1,92 @@
+<!doctype html 4.01>
+<html>
+    <body>
+
+        
+
+    </body>
+    
+    
+<head>
+<title> my web page </title>
+</head>
+<body>
+<h1> THE FISH WEBSITE </h1>
+<p> welcome to the the fish web site. everything you want to know about fish is in this web site.        </P>
+test &nbsp&nbsp&nbsp   test
+<br>
+<br>
+<br>
+<!--this is the start of the html for the second section and we will start each section with a header tag
+-->
+<h2> This Is The Section Of Bass Fish </h2>
+<p> bass fish lives in lake     </P>
+</body>
+
+<table>
+
+    <tr>
+        <th> THE PLANETS </th>
+        <th> THE OCEAN </th>
+        <th> THE DESERT </th>
+    </tr>
+    
+    <tr>
+        <td> EARTH </tD>
+        <td> PACIFIC</tD>
+        <td> SAHARA </tD>
+    </tr>
+    
+            <tr>
+                <td> PLUTO </tD>
+                <td> ATLANTIC </tD>
+                <td> GOBI </tD>
+    </tr>   
+    
+</table>
+<head> </head>
+
+<body120x100>
+
+<h1> washinton dc </h1>
+
+<p> <img src =" image.jpg"></p>
+
+<head> </head> 
+
+<body>
+
+<form action="" method="">
+<input type=" text" name=""></br></br>
+<input type=" text" name="" >
+<!-- input element go in here--> 
+</form>
+</body>
+</form>
+
+<!--this is the start of the html for the third section and we will start each section with a header tag
+-->
+<h2> IF YOU WANT TO  knoW MORE ABOUT FISH  </h2>
+
+<button paddingright  length 100pgx hight 100pgx >                   login                 </button>
+
+<head>
+<meta charset="uf-8">
+<metaname="viewreport" "content="width=device-width, initial.scale=1">
+<title>Background Image>
+<stle type="text/css">
+    body(
+        background.image: url(pattern.jpg");
+    )
+    </style>
+    </head>
+    body(
+        background-image: url(background"image.jpg");
+
+    )
+         
+
+
+
+
+</html>
